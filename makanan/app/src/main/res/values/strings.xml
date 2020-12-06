@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">makanan</string>
+    <string name="content_price">Rp.20.000</string>
+    <string name="content_deskripsi">Bali sendiri memiliki daya tarik cukup baik di dunia wisata, baik dalam negeri, maupun mancanegara. Bahkan stereotip jika Bali itu bukan di Indonesia merupakan ungkapan yang cukup terkenal bagi wisatawan luar negeri.
+        Banyak yang beranggapan jika Bali itu negara sendiri bukan termasuk dalam NKRI.</string>
+    <string name="content_specs_menu">Bebek Betutu,Sate Lilit,Nasi Tepeng,Sate Plecing</string>
+<string name="content_specs_harga">Rp.20.000,Rp.15.000,Rp.25.000,Rp.10.000</string>
+
+</resources>
